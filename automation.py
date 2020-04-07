@@ -3,7 +3,6 @@ import sys
 import os
 import re
 pattern=r"x                   &           ([\w]+)\\"
-line="x                   &           5\\"
 
 def get_value(input_file):
   value=[]
