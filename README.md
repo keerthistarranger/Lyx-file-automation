@@ -6,7 +6,6 @@ This is an attempt to automatically update the data in article using Python.
 The stata output is stored in text_folder.
 The data extracted from it is stored in output_folder.
 The data in output_folder is refernced in text.lyx file.
-
 The command to run the file :
 automation.py <Pth to text_folder> <Path to output_folder>
   
